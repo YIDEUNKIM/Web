@@ -1,2 +1,2 @@
 # Web
-web programming class study
+Web Programming Class Study
